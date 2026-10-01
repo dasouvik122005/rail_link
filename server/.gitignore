@@ -1,0 +1,17 @@
+# Server Environment & Sensitive Config
+.env
+.env.*
+*.env
+
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS & Editor
+.DS_Store
+.idea/
+.vscode/
